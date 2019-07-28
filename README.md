@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/rbhatia46/LendingClub-Loan-Analysis.svg)](http://hits.dwyl.io/rbhatia46/LendingClub-Loan-Analysis)
+
 # LendingClub-Loan-Analysis
 
 ![Logo](https://d1ic4altzx8ueg.cloudfront.net/niche-builder/5cb94cef96518.png)
