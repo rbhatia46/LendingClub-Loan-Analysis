@@ -16,6 +16,8 @@ company
 The data used was acquired from Kaggle, open-sourced by LendingClub itself to welcome Data Scientist help them identify driving factors behind 
 loan default, using historic data of loan applications.
 
+* Be sure to checkout the Data Dictionary for the meaning of each column in the dataset.
+
 * The data given contains the information about past loan applicants and
 whether they ‘defaulted’ or not. The aim is to identify patterns which
 indicate if a person is likely to default, which may be used for taking
